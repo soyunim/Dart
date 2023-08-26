@@ -3,7 +3,7 @@ void main(){
     'name' : 'gil-dong',
     'age' : 24,
     's' : 'male',
-  }
+  };
 
 // key가 Int이고 value가 boolean인 map
   Map<int, bool> player = {
